@@ -7,7 +7,7 @@ import {
   getLocalData,
   setLocalData,
   removeLocalData,
-} from "../db/localstorage";
+} from "../db/localStorage";
 import { STORAGE_KEYS } from "../db/storageKeys";
 import type { User } from "../types/auth";
 

@@ -1,4 +1,4 @@
-import { getLocalData, setLocalData } from "../db/localstorage";
+import { getLocalData, setLocalData } from "../db/localStorage";
 import { STORAGE_KEYS } from "../db/storageKeys";
 
 import type { User } from "../types/auth";
